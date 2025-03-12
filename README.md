@@ -25,4 +25,4 @@ You can stop Autosave by opening Task Manager (Ctrl+Shift+Esc), searching for `c
 If you have any doubts about how Autosave functions, you can read the installation file, which outlines the code for everything that Autosave uses with comments. If you have any other concerns, you may report it as an [issue](https://github.com/Chordavei/Autosave/issues)
 
 ### Attributions
-This project was coded alone, but not without the indirect help of others. Thank you to the many people on Stack Overflow who provided answers and help, as well as people that may have helped
+This project was coded alone, but not without the indirect help of others. Thank you to the many people on Stack Overflow who provided answers and help, as well as other people that may have helped
