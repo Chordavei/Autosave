@@ -1,5 +1,6 @@
-![image](https://github.com/Chordavei/Autosave/blob/main/Images/Text.png)
+![image](https://github.com/Chordavei/Autosave/blob/main/Images/Autosave-Logo.png)
 <br>
+# Autosave v1
 Made by Chordavei, licensed under the GNU General Public 3.0 license
 <br>
 ### Installation
